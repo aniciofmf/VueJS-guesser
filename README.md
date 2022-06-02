@@ -2,7 +2,7 @@
 
 Work in progress...
 
-Silly guesser game, making it generic and customizable to be able to match various schemas, default pokemon.
+Silly guess-select game, making it generic and customizable to be able to match various schemas.
 
 ## Project setup
 
@@ -27,7 +27,3 @@ yarn build
 ```
 yarn test:unit
 ```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
